@@ -8,7 +8,7 @@
 
 Copy the following line into powershell to enable automatic logon
 
-    irm https://github.com/MineFartS/Windows-Automatic-Logon/blob/main/Enable.ps1 | iex
+    irm https://raw.githubusercontent.com/MineFartS/Windows-Automatic-Logon/refs/heads/main/Enable.ps1 | iex
 
 ---
 
@@ -16,4 +16,4 @@ Copy the following line into powershell to enable automatic logon
 
 Copy the following line into powershell to disable automatic logon
 
-    irm https://github.com/MineFartS/Windows-Automatic-Logon/blob/main/Disable.ps1 | iex
+    irm https://raw.githubusercontent.com/MineFartS/Windows-Automatic-Logon/refs/heads/main/Disable.ps1 | iex
